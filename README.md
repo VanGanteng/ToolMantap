@@ -16,6 +16,12 @@ $ cd ToolMantap
 $ ls
 $ unzip ToolMantap
 $ ls
+$ cd ToolsMantap
+$ sh Run.sh
 
-username : Rahmad
-password : Jomblo123
+
+username : Mr.V4N
+password : CBS
+
+TERIMA KASIH TELAH MENGGUNAKAN SCRIPT SAYA
+SEMOGA BERMANFAAT^_^
