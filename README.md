@@ -2,7 +2,7 @@
 Wellcome To Github Cyber Banana Team
 
 Command
-12 TOOLS MANTAP DJIWA
+12 ALAT MANTAP DJI
 
 $ pkg update && pkg upgrade
 $ pkg install php
@@ -24,4 +24,4 @@ username : Mr.V4N
 password : CBS
 
 TERIMA KASIH TELAH MENGGUNAKAN SCRIPT SAYA
-SEMOGA BERMANFAAT^_^
+SEMOGA BERMANFAAT ^ _ ^
